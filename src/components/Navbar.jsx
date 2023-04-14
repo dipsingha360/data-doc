@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 
 function Navbar() {
-  const [nav, setNav] = useState(false);
+  const [nav, setNav] = useState(true);
   const handleNav = () => {
     setNav(!nav);
   };
@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <div className="navbar text-white flex justify-between items-center h-24 max-w-[1240px] px-4 mx-auto">
       <h1 className="w-full text-4xl uppercase font-bold text-[#00df9a]">
-        React.
+        Data.
       </h1>
       <ul className="hidden sm:flex justify-center items-center ">
         <li className="p-4">Home</li>

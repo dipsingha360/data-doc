@@ -8,7 +8,9 @@ function Hero() {
         <p className="text-[#00df9a] font-medium p-2 sm:text-2xl text-xl">
           Growing with data analytics
         </p>
-        <h1 className="sm:text-7xl text-5xl font-bold">Grow with data.</h1>
+        <h1 className="sm:text-7xl text-5xl font-bold">
+          Grow with <span className="text-[#00df9a]">Data Doc</span>
+        </h1>
         <div className="flex items-center justify-center gap-3 py-4">
           <p className="sm:text-4xl md:5xl text-xl font-medium">
             Fast, Flexible,financing for

@@ -3,7 +3,7 @@ import React from "react";
 function Analytics() {
   return (
     <div className=" py-16 px-4 bg-white">
-      <div className="max-w-[1240] mx-auto grid gap-3 sm:grid-cols-2">
+      <div className="max-w-[1240px] mx-auto grid gap-3 sm:grid-cols-2">
         {/* demo image  */}
         <img
           className="w-[500px] mx-auto py-4"

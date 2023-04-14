@@ -25,7 +25,7 @@ function Hero() {
           Monitor your data analytics to increase revenue for BTB,BTC, and SASS
           platforms.
         </p>
-        <button className="btn bg-[#00df9a] w-[150px] rounded-md mx-auto py-2 mt-4 font-medium text-[#000300]">
+        <button className="btn bg-[#00df9a] w-[150px] rounded-md mx-auto py-2 mt-4 font-medium text-[#000300] hover:bg-[#00ac77] duration-300">
           Get Started
         </button>
       </div>

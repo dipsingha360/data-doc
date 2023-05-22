@@ -7,7 +7,7 @@ function Analytics() {
         {/* demo image  */}
         <img
           className="w-[500px] mx-auto py-4"
-          src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/social-media-marketing-design-template-e8d39290c07ad95d217358f9290b99e1_screen.jpg?ts=1648536576"
+          src="https://i.postimg.cc/NG1RZv5d/data-doc-1.jpg"
           alt="/"
         />
         <div className="flex flex-col gap-3 justify-center">
